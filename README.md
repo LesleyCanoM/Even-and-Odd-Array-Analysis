@@ -16,15 +16,18 @@ This C++ program reads a series of integers from a file, separates them into eve
 <b>Step 1: Read data and separate into even and odd arrays</b><br/>
 The program reads from an input file and stores even and odd numbers into separate arrays.<br/>
 <img src="https://imgur.com/aYCPD9S.png" height="80%" width="80%" alt="Reading and Separating Data"/><br/><br/>
-
+  
+<p align="center">
 <b>Step 2: Calculate statistics</b><br/>
 Each array is analyzed to find the highest, lowest, and average values.<br/>
 <img src="https://imgur.com/eFb7cXT.png" height="80%" width="80%" alt="Statistics Calculation"/><br/><br/>
 
-<b>Step 3: Output higher-than-average numbers</b><br/>
+<<p align="center">
+b>Step 3: Output higher-than-average numbers</b><br/>
 The program filters numbers greater than the average and outputs them to their respective files.<br/>
 <img src="https://imgur.com/9Usqdlp.png" height="80%" width="80%" alt="Above Average Output"/><br/><br/>
 
+<p align="center">
 <b>Step 4: Write summary of both sets</b><br/>
 A final file includes summarized statistics for both even and odd numbers.<br/>
 <img src="https://imgur.com/0GqP4Rp.png" height="80%" width="80%" alt="Summary Output"/>
